@@ -20,4 +20,4 @@
   </tr>
 </table>
 
-<h3>If my creds arent finished u may find this project working at <a href="https://file-encrypt.railway.app"> Here </a></h3>
+<h3>If my creds arent finished u may find this project working at <a href="https://file-encrypt.up.railway.app"> Here </a></h3>
